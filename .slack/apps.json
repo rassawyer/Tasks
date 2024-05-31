@@ -1,0 +1,17 @@
+{
+  "apps": {
+    "T03JL1E7LHL": {
+      "app_id": "A0749SY3WP4",
+      "IsDev": false,
+      "team_domain": "truegeekllc",
+      "team_id": "T03JL1E7LHL"
+    },
+    "TCJKNF2RJ": {
+      "app_id": "A073X56NGBE",
+      "IsDev": false,
+      "team_domain": "integro212",
+      "team_id": "TCJKNF2RJ"
+    }
+  },
+  "default": "integro212"
+}
